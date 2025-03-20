@@ -14,7 +14,11 @@
 </teiHeader>
 
 <text>
-<p>Commentaria  Cardinalis  Caietani</p>
+<body>
+<div>
+<p>
+Commentaria  Cardinalis  Caietani
+</p>
 
 <cb/>
 <p>
@@ -23,18 +27,39 @@
 <lb/>tenditur usque ad quaestionem centesimamvigesimamsecun-
 <lb/>dam inclusive.
 </p>
-<p>In  articulo  primo  quaestionis  quinquagesimaeseptimae dubium  occurrit  circa  differentiam  inter  rectum  secundum iustitiam,  et  alias  virtutes :  quoniam  videtur  undique  falsa. Nam  aut  intelligitur  de  ipsis  operibus  ut  sunt  a  virtutibus, aut  absolute.  Si  ut  sunt  a  virtutibus,  constat  quod  com- mune  est  omni  operi  virtuoso,  inquantum  huiusmodi,  esse ab  operante  sicut  describitur  II  Ethic.  * ,  scilicet  sciente , et  ex  electione,  et  propter  finem  ad  virtutem,  et  immo- biliter.  Et  in  hoc  non  est  differentia  inter  rectum  secundum iustitiam,  et  alias  virtutes.</p>
-<p>Si  vero  absolute,  constat  et  quod  temperatum  et  forte opus  fiieri  potest,  et  tamen  male  ab  agente:  ut  patet  de exercente  haec  propter  hypocrisim  vel  aliud  malum;  in his  enim  est  rectum  opus  secundum  temperantiae  rationem, non  considerato  qualiter  ab  agente  fiat.  -  Et  rursus  rectum secundum  iustitiam  non  determinatur  in  ordine  ad  alterum non  considerato  qualiter  ab  agente  fiat.  Quoniara  oportet considerare  potentiam  agentis :  nam  non  est  iustum  creditori solvere  impotentem.  Et  similiter  oportet  circumstantias  alias ex  parte  agentis  considerare  ad  iusti  rationem :  non  enim tenetur  occupatus  maioribus,  et  inventus  in  tali  loco,  etc, debitum  solvere,  ut  patet.</p>
-<p>II.  Ad  hoc  dicitur  quod  dubium  ex  minore  intellectu litterae  procedit.  Differentia  siquidem  prima  inter  rectum secundum  iustitiam  et  alias  morales  virtutes  est  quod  opus rectum  secundum  alias  virtutes  constituitur  in  esse  recti commensuratione  ad  operantem;  rectum  vero  opus  secun- dum  iustitiam  constituitur  in  esse  recti    commensuratione
-ad  alterum.  Ita  quod  inter  opera  ipsa,  non  ut  sunt  a  vir- tutibus,  sed  absolute,  est  differentia  haec,  quod  nullum opus  dicitur  temperatum  nisi  quia  est  commensuratum operanti,  et  similiter  nullum  forte;  iustum  autem  vere  di- citur  si  est  commensuratum  alteri.</p>
-<p>Ad  id  autem  quod  obiicitur  de  opere  temperato  hy- pocritae,  et  simihum,  dicitur  quod  opus  talium  pro  tanto est  temperatum  pro  quanto  est  commensuratum  operanti, licet  mala  intentione.  Non  enim  spectat  ad  huiusmodi  com- mensurationes  ordinatio  talium  operum  ad  bonum  vel malum  finem:  sed  quis  sit  terminus  ad  quem  referuntur, scilicet  operans  vel  alter. ,'  Ad  id  vero  quod  ex  parte  iusti  obiicitur,  respondetur quod  aliud  est  loqui  de  iusto  absolute:  aliud  est  loqui de  executione  seu  exhibitione  iusti.  Nos  loquimur  de  ipso iusto  absolute,  quo  scilicet  constituitur  in  esse  iusti :  et  di- cimus  quod  commensuratione  ad  alterum.  Obiectiones  vero loquuntur  de  executione  iusti.  Creditori  namque  centum aureorum  iustum  est  absolute  ut  reddantur  centum  aurei: an  autem  hic  debitor,  factus  impotens,  teneatur  ad  exe- cutionem  huius  iusti,  et  similiter  an  in  tali  tempore,  loco vel  casu  debeat  fieri  exhibitio,  alia  quaestio  est.</p>
-<p>III.  Ex  hac  autem  essentiali  differentia  inter  opus  rectum secundum  iustitiam  et  alias  virtutes,  sequuntur  duae  aliae. Prima  est  quod  in  opere  iusto  non  consideratur  qualiter fit  ab  agente:  in  opere  vero  temperato  hoc  attenditur. Non  enim  in  reddente  centum  aureos  creditori  variatur ipsum  iustum  quia  reddit  ex  odio  vel  invidia  aut  inani gloria :  sat  enim  est  quod  reddit  quod  debet.  Sed  in  tem- perato  opere ,  puta  sobrietate,  attenditur  an  ex  avaritia,  an ex  timore  videntium,  etc,  faciat.  Et  ratio  est  quia  ex  parte eiusdem   termini  quem  respicit   commensuratio  temperati
+
+<p>
+In  articulo  primo  quaestionis  quinquagesimaeseptimae dubium  occurrit  circa  differentiam  inter  rectum  secundum iustitiam,  et  alias  virtutes :  quoniam  videtur  undique  falsa. Nam  aut  intelligitur  de  ipsis  operibus  ut  sunt  a  virtutibus, aut  absolute.  Si  ut  sunt  a  virtutibus,  constat  quod  com- mune  est  omni  operi  virtuoso,  inquantum  huiusmodi,  esse ab  operante  sicut  describitur  II  Ethic.  * ,  scilicet  sciente , et  ex  electione,  et  propter  finem  ad  virtutem,  et  immo- biliter.  Et  in  hoc  non  est  differentia  inter  rectum  secundum iustitiam,  et  alias  virtutes.
+</p>
+
+<p>
+Si  vero  absolute,  constat  et  quod  temperatum  et  forte opus  fiieri  potest,  et  tamen  male  ab  agente:  ut  patet  de exercente  haec  propter  hypocrisim  vel  aliud  malum;  in his  enim  est  rectum  opus  secundum  temperantiae  rationem, non  considerato  qualiter  ab  agente  fiat.  -  Et  rursus  rectum secundum  iustitiam  non  determinatur  in  ordine  ad  alterum non  considerato  qualiter  ab  agente  fiat.  Quoniara  oportet considerare  potentiam  agentis :  nam  non  est  iustum  creditori solvere  impotentem.  Et  similiter  oportet  circumstantias  alias ex  parte  agentis  considerare  ad  iusti  rationem :  non  enim tenetur  occupatus  maioribus,  et  inventus  in  tali  loco,  etc, debitum  solvere,  ut  patet.
+</p>
+
+<p>
+II.  Ad  hoc  dicitur  quod  dubium  ex  minore  intellectu litterae  procedit.  Differentia  siquidem  prima  inter  rectum secundum  iustitiam  et  alias  morales  virtutes  est  quod  opus rectum  secundum  alias  virtutes  constituitur  in  esse  recti commensuratione  ad  operantem;  rectum  vero  opus  secun- dum  iustitiam  constituitur  in  esse  recti    commensuratione ad  alterum.  Ita  quod  inter  opera  ipsa,  non  ut  sunt  a  vir- tutibus,  sed  absolute,  est  differentia  haec,  quod  nullum opus  dicitur  temperatum  nisi  quia  est  commensuratum operanti,  et  similiter  nullum  forte;  iustum  autem  vere  di- citur  si  est  commensuratum  alteri.
+</p>
+
+<p>
+Ad  id  autem  quod  obiicitur  de  opere  temperato  hy- pocritae,  et  simihum,  dicitur  quod  opus  talium  pro  tanto est  temperatum  pro  quanto  est  commensuratum  operanti, licet  mala  intentione.  Non  enim  spectat  ad  huiusmodi  com- mensurationes  ordinatio  talium  operum  ad  bonum  vel malum  finem:  sed  quis  sit  terminus  ad  quem  referuntur, scilicet  operans  vel  alter. ,'  Ad  id  vero  quod  ex  parte  iusti  obiicitur,  respondetur quod  aliud  est  loqui  de  iusto  absolute:  aliud  est  loqui de  executione  seu  exhibitione  iusti.  Nos  loquimur  de  ipso iusto  absolute,  quo  scilicet  constituitur  in  esse  iusti :  et  di- cimus  quod  commensuratione  ad  alterum.  Obiectiones  vero loquuntur  de  executione  iusti.  Creditori  namque  centum aureorum  iustum  est  absolute  ut  reddantur  centum  aurei: an  autem  hic  debitor,  factus  impotens,  teneatur  ad  exe- cutionem  huius  iusti,  et  similiter  an  in  tali  tempore,  loco vel  casu  debeat  fieri  exhibitio,  alia  quaestio  est.
+</p>
+
+<p>
+III.  Ex  hac  autem  essentiali  differentia  inter  opus  rectum secundum  iustitiam  et  alias  virtutes,  sequuntur  duae  aliae. Prima  est  quod  in  opere  iusto  non  consideratur  qualiter fit  ab  agente:  in  opere  vero  temperato  hoc  attenditur. Non  enim  in  reddente  centum  aureos  creditori  variatur ipsum  iustum  quia  reddit  ex  odio  vel  invidia  aut  inani gloria :  sat  enim  est  quod  reddit  quod  debet.  Sed  in  tem- perato  opere ,  puta  sobrietate,  attenditur  an  ex  avaritia,  an ex  timore  videntium,  etc,  faciat.  Et  ratio  est  quia  ex  parte eiusdem   termini  quem  respicit   commensuratio  temperati
 QUAESTIO  LVII,  ARTICULUS  II
 5
-operis  omnia  ista  se  tenent,  scilicet  ex  parte  operantis: in  opere  vero  iusti  non  tenent  se  ista  ex  parte  alterius, ad  quem  dicitur  iustum,  sed  ex  parte  operantis.</p>
-<p>Secunda  est  quod  doctores,  propter  eandem  rationem, non  dederunt  aliis  virtutibus  obiectum  secundum  se,  sed solum  iustitiae.</p>
-<p>Et   omnes  hae   differentiae  tanguntur    in    littera.    Nam
-prima,  quae  est  radix  omnium,  exprimitur  dicendo:  Rectum in  operibus  aliarum  virtutum  non  accipitur  nisi  per  compa- rationem  ad  agentem:  rectum  vero  quod  est  in  opere  iusti- tiae  constituitur per  comparationem  ad  aliud.  -  Secunda  au- tem  subiungitur  ibi :  Sic  ergo  iustum  etc.  etiam  non  consi- derato  qualiter  ab  agente  fiat.  Sed  in  aliis  virtutibus  etc.  - Tertia  vero  cum  subditur:    Et  propter  hoc  specialiter  etc.</p>
-</text>
+operis  omnia  ista  se  tenent,  scilicet  ex  parte  operantis: in  opere  vero  iusti  non  tenent  se  ista  ex  parte  alterius, ad  quem  dicitur  iustum,  sed  ex  parte  operantis.
+</p>
 
+<p>Secunda  est  quod  doctores,  propter  eandem  rationem, non  dederunt  aliis  virtutibus  obiectum  secundum  se,  sed solum  iustitiae.
+</p>
+
+<p>
+Et   omnes  hae   differentiae  tanguntur    in    littera.    Nam
+prima,  quae  est  radix  omnium,  exprimitur  dicendo:  Rectum in  operibus  aliarum  virtutum  non  accipitur  nisi  per  compa- rationem  ad  agentem:  rectum  vero  quod  est  in  opere  iusti- tiae  constituitur per  comparationem  ad  aliud.  -  Secunda  au- tem  subiungitur  ibi :  Sic  ergo  iustum  etc.  etiam  non  consi- derato  qualiter  ab  agente  fiat.  Sed  in  aliis  virtutibus  etc.  - Tertia  vero  cum  subditur: Et  propter  hoc  specialiter  etc.
+</p>
+</div>
+
+</body>
+</text>
 </TEI>
